@@ -1,0 +1,17 @@
+{
+    "name": "getstartedon/programming",
+    "type": "project",
+    "description": "Directory structure for organize all your projects.",
+    "keywords": ["programming", "directory", "directory tree", "folder", "folder structure", "standard folder structure", "projects", "software project", "organize", "iamprogrammer", "iamprogrammerlk"],
+    "homepage": "https://github.com/GetStartedOn/Programming",
+    "url": "https://github.com/GetStartedOn/Programming",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IamProgrammerlk",
+            "email": "support@iamprogrammer.lk",
+            "homepage": "https://iamprogrammer.lk",
+            "role": "Developer"
+        }
+    ]
+}

@@ -1,2 +1,4 @@
 # Programming
-Open directory structure for your programming projects.
+
+### Directory structure for your programming projects.
+
